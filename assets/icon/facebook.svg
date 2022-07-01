@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>2A3E4215-D196-46E6-AEDA-39A1F4EBA5CC</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="3.15886922%" x2="50%" y2="105.688741%" id="linearGradient-1">
+            <stop stop-color="#6F6EB2" offset="0%"></stop>
+            <stop stop-color="#352C64" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Phatra_test" transform="translate(-900.000000, -3047.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group-5" transform="translate(1.000000, 2797.000000)">
+                <g id="Group-7-Copy" transform="translate(899.000000, 250.000000)">
+                    <g id="facebook-logo-button">
+                        <path d="M22,0 C9.85049919,0 0,9.8303286 0,21.9549512 C0,34.0795739 9.85049919,43.9099025 22,43.9099025 C34.1495008,43.9099025 44,34.0795739 44,21.9549512 C44,9.8276203 34.1495008,0 22,0 Z M27.686985,21.9521526 L24.0817119,21.9548609 L24.078998,35.1277775 L19.1317209,35.1277775 L19.1317209,21.9549512 L15.8317571,21.9549512 L15.8317571,17.4157446 L19.1317209,17.4130363 L19.1262027,14.7400312 C19.1262027,11.0351625 20.1326831,8.78203466 24.5024507,8.78203466 L28.1434563,8.78203466 L28.1434563,13.3239496 L25.8664369,13.3239496 C24.1642132,13.3239496 24.0817119,13.9578732 24.0817119,15.1406795 L24.0761937,17.4130363 L28.1681524,17.4130363 L27.686985,21.9521526 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
